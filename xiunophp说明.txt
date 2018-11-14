@@ -1,0 +1,4 @@
+修罗PHP文档：
+https://www.kancloud.cn/xiuno/xiunophp/212926
+
+校园二手平台后台用户名和密码都是：admin
