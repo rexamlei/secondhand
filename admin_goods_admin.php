@@ -128,7 +128,7 @@ if(isset($_GET['c'])){
 					 <nav aria-label="Page navigation example">
 						<ul class="pagination justify-content-end">
 						<?php
-							echo pagination("?page={page}", $total, 1, $pageSize);
+							echo pagination("?page={page}", $total,$page, $pageSize);
 						?>
 						 </ul>
 					 </nav>
